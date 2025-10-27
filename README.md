@@ -27,9 +27,18 @@ To develop key sales and profitability metrics, analyse the impact of promotions
 - Lowest Gross Profit % Day: 29 November 2015, with -14.86% gross profit.
 - Price Elasticity During Promotions: Product is highly price-sensitive; small price drops led to large increases in quantity sold.
 
+# Visualisations 
+<img width="1491" height="927" alt="image" src="https://github.com/user-attachments/assets/aa650e0a-4e42-4638-8bbe-761362c38345" />
+
+<img width="1679" height="691" alt="image" src="https://github.com/user-attachments/assets/dc063daf-10b0-4846-87ab-c154fb54b921" />
+
+<img width="1677" height="750" alt="image" src="https://github.com/user-attachments/assets/2ef85253-785b-4203-9951-9b63b51c6a78" />
+
 # Key Insights
 - Sales Trends: Sales show clear peaks and troughs, indicating possible seasonality.
 - Profitability: Gross profit percentage fluctuates, with some periods of negative gross profit (losses), often aligning with promotions or price drops.
 - Promotions: During promotions, even small price reductions resulted in significant increases in quantity sold, confirming high price sensitivity.
 - Variability: Both sales and profitability are highly variable, suggesting the influence of external factors such as seasonality, promotions, or market conditions.
 - Actionable Finding: Monitoring and optimizing promotional pricing can significantly boost sales volume, but may impact profitability if not managed carefully.
+
+
